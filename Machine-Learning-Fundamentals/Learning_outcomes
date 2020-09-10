@@ -1,0 +1,21 @@
+### Introduction to K-Nearest Neighbors
+- The basics of the machine learning workflow
+- How the k-nearest neighbors algorithm works
+- The role of Euclidan distance in machine learning
+
+### Evaluating Model Performance
+- How to evaluate model accuracy using MSE and RMSE
+- How to compare MSE and RMSE values
+
+### Multivariate K-Nearest Neighbors
+- How to use multiple variables in machine learning models
+- How to prepare columns by normalizing and handling missing values
+
+### Hyperparameter Optimization
+- How a model's hyperparameters affect the model's performance
+- How to use grid search to try different hyperparameter values
+
+### Cross Validation
+- How cross-validation lets us more accuractely understand model performance
+- The difference between holdout and k-fold cross validation
+- How to perform cross-validation in scikit-learn
