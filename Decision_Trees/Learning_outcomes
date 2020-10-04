@@ -1,0 +1,18 @@
+Introduction to Decision Trees
+- The basics of decision trees
+- The importance of entropy and information gain
+
+Building a Decision Tree
+- How to build a decision tree
+- How the ID3 algorithm works
+- How to make predictions using decision trees
+
+Applying Decision Trees
+- How to train a decision tree model using scikit-learn
+- How to evaluate error using AUC
+- How to reduce overfitting with decision trees
+
+Introduction to Random Forests
+- How to ensemble decision trees to improve prediction quality
+- How to introduce variation with bagging
+- How to reduce overfitting with random forests
